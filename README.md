@@ -1,6 +1,8 @@
 # gamaker
 www.gamaker.org
 
+ 	![www.gamaker.org](https://raw.githubusercontent.com/txuswashere/Gamaker/master/GAMAKER.png "www.gamaker.org")
+
 #### GAMAKER es la asociación sin ánimo de lucro de la gente maker en Gasteiz, desde donde promovemos el intercambio libre de conocimiento científico y técnico, la imaginación y la creatividad.
 ### Creamos soluciones basándonos en la cooperación, la sostenibilidad y los derechos humanos, mediante el empleo del conocimiento, la inteligencia y la creatividad.
 
